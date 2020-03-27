@@ -1,5 +1,5 @@
 # PEIGEN: a Platform for Evaluation, Implementation, and Generation of S-boxes
-# Q3's version
+This is Q3's version
 PEIGEN is a tool for study S-boxes.
 
 The S-box is a type of non-linearity cryptographic component, commonly used in symmetric cryptography primitives.
